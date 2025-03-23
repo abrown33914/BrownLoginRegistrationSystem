@@ -1,4 +1,5 @@
 # 🚀 Final Project for COP2006 - Programming I
+[![OpenSSF Best Practices](https://api.securityscorecards.dev/projects/github.com/abrown33914/BrownLoginRegistrationSystem/best_practices_badge)](https://securityscorecards.dev/viewer/?uri=github.com/abrown33914/BrownLoginRegistrationSystem)  [![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/abrown33914/BrownLoginRegistrationSystemr/badge)](https://securityscorecards.dev/viewer/?uri=github.com/abrown33914/BrownLoginRegistrationSystem)
 
 ## 🔑 Project Overview
 This project is a **simple yet efficient login and registration system** designed for seamless user authentication. It can be integrated into various applications to manage user identities securely. The system enables users to:
